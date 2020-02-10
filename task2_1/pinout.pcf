@@ -1,0 +1,17 @@
+set_io clk_in P7 -pullup no
+set_io io_swt_a[0] C11 -pullup no
+set_io io_swt_a[1] C12 -pullup no
+set_io io_swt_a[2] D11 -pullup no
+set_io io_swt_a[3] D12 -pullup no
+set_io io_swt_a[4] E11 -pullup no
+set_io io_swt_a[5] F11 -pullup no
+set_io io_swt_a[6] F12 -pullup no
+set_io io_swt_a[7] G12 -pullup no
+set_io led[0] J11 -pullup no
+set_io led[1] K11 -pullup no
+set_io led[2] K12 -pullup no
+set_io led[3] K14 -pullup no
+set_io led[4] L12 -pullup no
+set_io led[5] L14 -pullup no
+set_io led[6] M12 -pullup no
+set_io led[7] N14 -pullup no
